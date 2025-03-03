@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "492175092848",
+    "project_id": "icetask2prog",
+    "storage_bucket": "icetask2prog.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492175092848:android:d95bae65ce3aaf228258b5",
+        "android_client_info": {
+          "package_name": "com.st10304100.progpart2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcLv9_Eahp4A69fugqyT_8IAriNEiFB2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
